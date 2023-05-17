@@ -1,0 +1,4 @@
+#Wed May 17 19:48:36 IST 2023
+base.0=E\:\\Flutter\\mytodoo\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

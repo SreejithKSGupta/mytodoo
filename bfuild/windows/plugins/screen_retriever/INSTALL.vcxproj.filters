@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Flutter\mytodoo\build\windows\CMakeFiles\324f6a8b6f479200b2f20a4200a70354\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3CDE5CAB-6320-3B00-AF09-63299FB1703B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

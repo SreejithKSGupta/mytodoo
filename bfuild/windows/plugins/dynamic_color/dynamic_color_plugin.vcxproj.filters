@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Flutter\mytodoo\windows\flutter\ephemeral\.plugin_symlinks\dynamic_color\windows\dynamic_color_plugin_c_api.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Flutter\mytodoo\windows\flutter\ephemeral\.plugin_symlinks\dynamic_color\windows\dynamic_color_plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\Flutter\mytodoo\windows\flutter\ephemeral\.plugin_symlinks\dynamic_color\windows\include\dynamic_color\dynamic_color_plugin_c_api.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Flutter\mytodoo\windows\flutter\ephemeral\.plugin_symlinks\dynamic_color\windows\dynamic_color_plugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Flutter\mytodoo\windows\flutter\ephemeral\.plugin_symlinks\dynamic_color\windows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{258D3FB0-DE2A-354E-9B20-20B46DE367E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5DDD7282-8D46-3C4B-9572-8383DC671619}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

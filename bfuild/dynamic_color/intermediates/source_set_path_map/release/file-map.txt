@@ -1,0 +1,12 @@
+io.material.plugins.dynamic_color-jetified-window-1.0.0-beta04-0 C:\Users\sreej\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+io.material.plugins.dynamic_color-jetified-annotation-experimental-1.1.0-1 C:\Users\sreej\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+io.material.plugins.dynamic_color-core-1.6.0-2 C:\Users\sreej\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+io.material.plugins.dynamic_color-jetified-window-java-1.0.0-beta04-3 C:\Users\sreej\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+io.material.plugins.dynamic_color-main-4 C:\Users\sreej\AppData\Local\Pub\Cache\hosted\pub.dev\dynamic_color-1.6.5\android\src\main\res
+io.material.plugins.dynamic_color-release-5 C:\Users\sreej\AppData\Local\Pub\Cache\hosted\pub.dev\dynamic_color-1.6.5\android\src\release\res
+io.material.plugins.dynamic_color-pngs-6 E:\Flutter\mytodoo\build\dynamic_color\generated\res\pngs\release
+io.material.plugins.dynamic_color-resValues-7 E:\Flutter\mytodoo\build\dynamic_color\generated\res\resValues\release
+io.material.plugins.dynamic_color-rs-8 E:\Flutter\mytodoo\build\dynamic_color\generated\res\rs\release
+io.material.plugins.dynamic_color-mergeReleaseResources-9 E:\Flutter\mytodoo\build\dynamic_color\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.material.plugins.dynamic_color-mergeReleaseResources-10 E:\Flutter\mytodoo\build\dynamic_color\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.material.plugins.dynamic_color-merged_res-11 E:\Flutter\mytodoo\build\dynamic_color\intermediates\merged_res\release

@@ -1,0 +1,17 @@
+E:/Flutter/mytodoo/build/windows/runner/Debug/data/icudtl.dat
+E:/Flutter/mytodoo/build/windows/runner/Debug/flutter_windows.dll
+E:/Flutter/mytodoo/build/windows/runner/Debug/dynamic_color_plugin.dll
+E:/Flutter/mytodoo/build/windows/runner/Debug/screen_retriever_plugin.dll
+E:/Flutter/mytodoo/build/windows/runner/Debug/window_manager_plugin.dll
+E:/Flutter/mytodoo/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+E:/Flutter/mytodoo/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+E:/Flutter/mytodoo/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+E:/Flutter/mytodoo/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+E:/Flutter/mytodoo/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+E:/Flutter/mytodoo/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+E:/Flutter/mytodoo/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+E:/Flutter/mytodoo/build/windows/runner/Debug/data/flutter_assets/packages/window_manager/images/ic_chrome_close.png
+E:/Flutter/mytodoo/build/windows/runner/Debug/data/flutter_assets/packages/window_manager/images/ic_chrome_maximize.png
+E:/Flutter/mytodoo/build/windows/runner/Debug/data/flutter_assets/packages/window_manager/images/ic_chrome_minimize.png
+E:/Flutter/mytodoo/build/windows/runner/Debug/data/flutter_assets/packages/window_manager/images/ic_chrome_unmaximize.png
+E:/Flutter/mytodoo/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
