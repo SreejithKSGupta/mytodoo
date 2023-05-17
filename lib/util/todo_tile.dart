@@ -64,7 +64,7 @@ class ToDoTile extends StatelessWidget {
                       ? (TextDecoration.lineThrough)
                       : TextDecoration.none,
                   color: taskCompleted
-                      ? Color.fromARGB(255, 0, 255, 0)
+                      ? const Color.fromARGB(255, 0, 255, 0)
                       : Colors.white,
                   fontSize: 18,
                   fontWeight: FontWeight.bold,
