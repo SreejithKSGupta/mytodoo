@@ -1,16 +1,6 @@
 # mytodoo
 
-A new Flutter project.
+A simple Material 3 Todo App made with Flutter, with Dynamic colours and Material wifgets
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+this Project a an edited version and is forked from mitchKoko 
+https://github.com/mitchkoko/ToDoFlutter  to adopt to the new theming standard, as well as add some extra features.
