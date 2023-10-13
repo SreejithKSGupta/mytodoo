@@ -1,4 +1,4 @@
-# mytodoo
+# My TODO
 
 A simple Material 3 Todo App made with Flutter, with Dynamic colours and Material widgets
 
